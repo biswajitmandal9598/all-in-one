@@ -23,6 +23,11 @@ our Telegram chanel 🖥️https://t.me/+Y15BGruLYzcwY2I1 🔫
  
  
  git clone https://github.com/biswajitmandal9598/all-in-one.git
+ 
+ 
+ 
+ 
+ 
  cd cd all-in-one
  # run 
 
