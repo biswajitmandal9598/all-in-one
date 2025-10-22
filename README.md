@@ -28,11 +28,16 @@ our Telegram chanel 🖥️https://t.me/+Y15BGruLYzcwY2I1 🔫
  
  
  
- cd cd all-in-one
+ 
+  
+  
+  cd all-in-one
  # run 
 
 
  python Wormgpt.py 
+
+ 
  enter any massage ☢️
 
 
