@@ -1,54 +1,48 @@
-# disclamer ☢️
-This tool is education purpose only if you miss use i will not respond it ☢️
-any problem contact https://t.me/biswa_yt 
-our Telegram chanel 🖥️https://t.me/+Y15BGruLYzcwY2I1 🔫
+# disclaimer ☢️ 🖥️
+  This tool is only for education purpose 🙏 if you Miss use i will not respond it 🙏
 
 
 
-  
- install the tool 🔫 coomands 
-
- apt update 
+# install in ( termux) 
 
 
 
 
- apt upgrade 
+  # 1 
+  apt update 
+  # 2
+
+  apt upgrade 
+
+  # 3 
+
+
+  pkg install git 
+
+   # 4
+
+
+   pkg install python 
+
+ # 5
 
 
 
- 
- pkg insatll python 
- 
- 
- 
  git clone https://github.com/biswajitmandal9598/all-in-one.git
+
+
+ # 6 
+
+
+ cd all-in-one
+
+
+ # 7 
+
+ chmod +x *
+
+ # 8 
+
+
+ python wormgpt.py
  
- 
- 
- 
- 
- 
-  
-  
-  cd all-in-one
- # run 
-
-
- python Wormgpt.py 
-
- 
- enter any massage ☢️
-
-
-
-
-
-
-  # contact devloper     
-
- https://t.me/biswa_yt
- 
-
-
-
